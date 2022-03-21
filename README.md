@@ -24,6 +24,7 @@ Figure B2
 Figure B3
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_updated.PNG)
 
--The scores by school spending were not materially affected.
--
+- The scores by school spending were not materially affected.
+- The scores by school size were not materially affected.
+- The scores by school type were also not materially affected. 
 
