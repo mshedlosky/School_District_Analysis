@@ -28,3 +28,5 @@ Figure B3
 - The scores by school size were not materially affected.
 - The scores by school type were also not materially affected. 
 
+## Summary
+The 9th grader reading and math grades that were altered had a significant impact on the Thomas High School data. The falsified data was a driver behind their high ranking. Once the 9th grader scores were eliminated, Thomas High School experienced a dramatic decrease in their overall passing percentages. However, the impact to other areas such as school size, school type, and school spending were minimally affected. 
