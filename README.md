@@ -11,7 +11,7 @@ Figure A1.
 Figure B1.
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/District_Summary_Updated.PNG)
 
-- The Thomas High School summary was greatly affected with the updated data accounted for. Their overall passing percentage dropped to the last of the 15 schools, compared to prior where they were situated in the top 50%. Figures A2 and B2 illustrate this decrease in ranking. 
+- The Thomas High School summary was greatly affected with the updated data accounted for. Their overall passing percentage dropped to the last of the 15 schools after the recalculation. Their overall passing percentange tanked from 91% to 67%, respectively. Figures A2 and B2 illustrate this decrease in ranking from top 20. 
 
 Figure A2
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/School_Summary_AllSchools_Original.PNG)
