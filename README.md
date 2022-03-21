@@ -16,7 +16,7 @@ Updated
 Original
 
 
-![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/School_Summary_AllSchools_Original.PNG"
+![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/School_Summary_AllSchools_Original.PNG)
 
 
 
