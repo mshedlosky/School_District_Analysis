@@ -5,5 +5,8 @@ The purpose of this analysis is to investigate the relationships of various char
 ## Results
 - Desite the updates made to the Thomas High School data, the impact to the District Summary was not material. The below images support this statement. 
 
+
+
+Updated
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/District_Summary_Updated.PNG)
 
