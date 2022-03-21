@@ -19,3 +19,7 @@ Figure A2
 Figure B2
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/School_Summary_AllSchools_Updated.PNG)
 
+- The math and reading scores for Thomas High School were adjusted to NaN ('Not a Number') for the 9th graders, while the other individuals in grades 10-12 were unaffected. Image B3 reflects what NaN looks like within each table for the 9th graders.
+
+Figure B3
+
