@@ -11,3 +11,8 @@ Original
 Updated
 ![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/District_Summary_Updated.PNG)
 
+
+Original
+![This is an image](https://github.com/mshedlosky/School_District_Analysis/blob/main/Resources/School_Summary_AllSchools_Original.PNG"
+
+Updated
